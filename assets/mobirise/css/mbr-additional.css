@@ -1,24 +1,17 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-
 
 #header4-6 H1 {
   font-family: 'Raleway', sans-serif;
 }
-#msg-box4-7 .mbr-header__text {
-  color: #000000;
+#msg-box3-6 .mbr-header .mbr-header__text {
+  text-align: center;
 }
-#msg-box4-7 .mbr-header__subtext {
-  color: #ffffff;
+#msg-box3-6 .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
-#msg-box4-7 .mbr-article {
-  color: #000000;
-  font-family: 'Source Sans Pro', sans-serif;
+#header3-17 H3 {
+  text-align: center;
 }
-#msg-box2-11 .mbr-header .mbr-header__text {
-  color: #252525;
-  text-align: right;
-}
-#msg-box2-11 .mbr-article {
-  color: #252525;
+#header3-15 H3 {
+  text-align: center;
 }
